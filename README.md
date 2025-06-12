@@ -45,18 +45,12 @@ Result-Management/
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/mohan-1705/Result-Management.git
 cd Result-Management/Task-1/src
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 3. Start the Server
-bash
-Copy
-Edit
 node server.js
 Open your browser and navigate to: http://localhost:3000
 
